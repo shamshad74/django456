@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+.section{
+    width: 400px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.top-div{
+    background-color: cornflowerblue;
+    margin-right: auto;
+}
+
+.main-div{
+    background-color: hotpink;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bottom-div{
+    background-color: mediumpurple;
+    margin-left: auto;
+}

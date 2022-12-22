@@ -1,0 +1,18 @@
+.parent{
+    width: 80%;
+    background-color: aqua;
+    border: 1px solid purple;
+}
+.child{
+    width: 50%;
+    height: 200px;
+}
+.child:nth-child(1){
+    background-color: blue;
+}
+.child:nth-child(2){
+    background-color: beige;
+}
+.child:nth-child(3){
+    background-color: chocolate;
+}

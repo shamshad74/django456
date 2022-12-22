@@ -1,0 +1,28 @@
+/* h2{
+    color: yellowgreen;
+} */
+
+/* id selector */
+/* #heading{
+    color: blueviolet;
+    text-align: center;
+} */
+
+/* class selector */
+.heading{
+    color: blueviolet;
+    text-align: center;
+}
+
+.parent{
+    background-color: aquamarine;
+    width: 70%;
+}
+
+.head{
+    border: 1px solid black;
+}
+
+.child{
+    width:50%; 
+}
